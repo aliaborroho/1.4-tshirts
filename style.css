@@ -1,5 +1,42 @@
-html {
+..frame{
+	float:left;
+	width:33.3%;
+	padding:10px;
+}.picture img{
+	position:100%
+	border-style:#e3e3e3 solid 2px;
+	borderwidth:19px 10px 10px;
+	border-color:invisible;
+
+
+}
+figcaption
+	margin-top: 8px
+	height:20px
+}
+.author
+float :right
+.triangle{
+	position:absolut;
+	display:black
+	width:0
+	height 0
+	border-style:solid
+	;
+
+	;
+}
+}
+{}
+
+display: block
+width: 200px
+height: 200px
+}
   box-sizing: border-box;
+  display:block;
+
+}
 }
 *, *:before, *:after {
   box-sizing: inherit;
